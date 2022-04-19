@@ -1,0 +1,13 @@
+name: shinyapprespirit
+title:
+username:
+account: s-dujardin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4209161
+bundleId: 5217665
+url: https://s-dujardin.shinyapps.io/shinyapprespirit/
+when: 1636120261.94585
+lastSyncTime: 1636120261.94585
+asMultiple: FALSE
+asStatic: FALSE
