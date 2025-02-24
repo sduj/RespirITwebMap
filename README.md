@@ -1,6 +1,3 @@
-# Description 
-
-Mapping allergenic tree species with citizen science data
 
 # RespirITwebMap
 
